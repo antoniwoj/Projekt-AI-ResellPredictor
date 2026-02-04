@@ -1,4 +1,4 @@
-#**Autorzy:** Antoni Wojcieszek i Igor Schaffer
+**Autorzy:** Antoni Wojcieszek i Igor Schaffer
 **Przedmiot:** Podstawy Sztucznej Inteligencji  
 
 
